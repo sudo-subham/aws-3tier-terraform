@@ -1,0 +1,10 @@
+# Terraform local directories
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
