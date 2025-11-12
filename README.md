@@ -85,7 +85,6 @@ outputs.tf → Prints DNS names, endpoints, and IDs
 
 terraform.tfvars → Stores your region, key name, passwords, AMI, etc.
 
-data.tf → Dynamically fetches the latest Amazon Linux 2 AMI
 
 🧩 Prerequisites
 
